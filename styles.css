@@ -1,24 +1,25 @@
 span {
     display: inline-block;
   }
-  /* span {
+  
+  span {
     display: inline-block;
     background-color: lightblue;
     padding: 5px;
     border: 1px solid darkgray;
   } */
-  /* 
-  #one {
+  
+   #one {
     background-color:lightblue;
     width: 150px;
     height: 200px;
-  }
+  }*/
   
-  #two {
+   #two {
     background-color: cornflowerblue;
     width: 200px;
     height: 50px;
-  }
+  }*/
   
   #three {
     background-color: rgb(187, 189, 243);
@@ -32,7 +33,7 @@ span {
     height: 150px;
   } */
   
-  /* div,
+ div,
   span {
     margin: 1px;
   }
